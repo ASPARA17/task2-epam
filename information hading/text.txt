@@ -1,0 +1,24 @@
+In this book, you will ind a number of styles of text that distinguish between
+different kinds of information. Here are some examples of these styles, and an
+explanation of their meaning.
+Code words in text, database table names, folder names, ilenames, ile extensions,
+pathnames, dummy URLs, user input, and Twitter handles are shown as follows:
+"The messaging module comes with key abstractions from the Spring Integration
+project such as Message, MessageChannel, and MessageHandler to serve as a
+foundation for messaging-based applications."
+A block of code is set as follows:
+
+public void currencyRoundsOff() throws Exception {
+	assertNotNull(CurrencyFormatter.format(100.999));
+	assertTrue(CurrencyFormatter.format(100.999).
+	contains("$"));
+	assertEquals("$101.00", CurrencyFormatter.format(100.999));
+}
+When we wish to draw your attention to a particular part of a code block, the
+relevant lines or items are set in bold:
+public class LocaleTest {
+	private Locale defaultLocale;
+	public void setUp() {
+	defaultLocale = Locale.getDefault();
+	Locale.setDefault(Locale.GERMANY);
+}
