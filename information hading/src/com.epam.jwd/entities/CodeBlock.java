@@ -1,6 +1,9 @@
 package com.epam.jwd.entities;
 
+import com.epam.jwd.view.Output;
+
 public class CodeBlock implements TextElement {
+    private static final String SPACE = " ";
     private String codeBlock;
 
     public CodeBlock(String codeBlock) {
@@ -16,7 +19,12 @@ public class CodeBlock implements TextElement {
     }
 
     @Override
+    public void print() {
+        Output.output(getCodeBlock() + SPACE);
+    }
+
+    @Override
     public String toString() {
-        return "CodeBlock{" + "codeBlock='" + codeBlock + '\'' + '}';
+        return getCodeBlock();
     }
 }

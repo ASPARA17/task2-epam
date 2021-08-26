@@ -1,0 +1,160 @@
+22:02:23.585 [main] DEBUG FileReader Read file text.txt
+22:02:23.588 [main] DEBUG SentenceAndCodeBlockParser Start text parsing
+22:02:23.590 [main] DEBUG SentenceAndCodeBlockParser Start sentence parsing
+22:02:23.590 [main] DEBUG SentenceElementsParser Start sentence parsing
+22:02:23.591 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.591 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.591 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.591 [main] DEBUG SentenceElementsParser Parsing punctuation marks
+22:02:23.592 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.592 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.592 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.593 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.593 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.593 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.593 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.593 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.593 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.594 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.594 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.594 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.594 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.594 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.594 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.594 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.595 [main] DEBUG SentenceElementsParser Parsing punctuation marks
+22:02:23.595 [main] DEBUG SentenceElementsParser End text parsing
+22:02:23.595 [main] DEBUG SentenceAndCodeBlockParser End sentence parsing
+22:02:23.596 [main] DEBUG SentenceAndCodeBlockParser Start sentence parsing
+22:02:23.596 [main] DEBUG SentenceElementsParser Start sentence parsing
+22:02:23.596 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.596 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.596 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.597 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.597 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.597 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.597 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.597 [main] DEBUG SentenceElementsParser Parsing punctuation marks
+22:02:23.597 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.598 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.598 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.598 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.598 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.598 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.598 [main] DEBUG SentenceElementsParser Parsing punctuation marks
+22:02:23.598 [main] DEBUG SentenceElementsParser End text parsing
+22:02:23.599 [main] DEBUG SentenceAndCodeBlockParser End sentence parsing
+22:02:23.599 [main] DEBUG SentenceAndCodeBlockParser Start sentence parsing
+22:02:23.599 [main] DEBUG SentenceElementsParser Start sentence parsing
+22:02:23.600 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.600 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.600 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.601 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.601 [main] DEBUG SentenceElementsParser Parsing punctuation marks
+22:02:23.601 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.601 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.601 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.601 [main] DEBUG SentenceElementsParser Parsing punctuation marks
+22:02:23.602 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.602 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.602 [main] DEBUG SentenceElementsParser Parsing punctuation marks
+22:02:23.602 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.602 [main] DEBUG SentenceElementsParser Parsing punctuation marks
+22:02:23.602 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.602 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.603 [main] DEBUG SentenceElementsParser Parsing punctuation marks
+22:02:23.603 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.603 [main] DEBUG SentenceElementsParser Parsing punctuation marks
+22:02:23.603 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.603 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.603 [main] DEBUG SentenceElementsParser Parsing punctuation marks
+22:02:23.603 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.604 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.604 [main] DEBUG SentenceElementsParser Parsing punctuation marks
+22:02:23.604 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.604 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.604 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.604 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.604 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.604 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.605 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.605 [main] DEBUG SentenceElementsParser Parsing punctuation marks
+22:02:23.605 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.605 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.605 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.605 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.605 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.606 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.606 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.606 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.606 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.606 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.606 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.606 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.607 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.607 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.607 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.607 [main] DEBUG SentenceElementsParser Parsing punctuation marks
+22:02:23.607 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.607 [main] DEBUG SentenceElementsParser Parsing punctuation marks
+22:02:23.607 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.607 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.608 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.608 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.608 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.608 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.608 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.608 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.608 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.608 [main] DEBUG SentenceElementsParser Parsing punctuation marks
+22:02:23.609 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.609 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.609 [main] DEBUG SentenceElementsParser Parsing punctuation marks
+22:02:23.609 [main] DEBUG SentenceElementsParser End text parsing
+22:02:23.609 [main] DEBUG SentenceAndCodeBlockParser End sentence parsing
+22:02:23.609 [main] DEBUG SentenceAndCodeBlockParser Start sentence parsing
+22:02:23.609 [main] DEBUG SentenceElementsParser Start sentence parsing
+22:02:23.609 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.610 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.610 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.610 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.610 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.610 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.610 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.610 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.610 [main] DEBUG SentenceElementsParser Parsing punctuation marks
+22:02:23.610 [main] DEBUG SentenceElementsParser End text parsing
+22:02:23.610 [main] DEBUG SentenceAndCodeBlockParser End sentence parsing
+22:02:23.611 [main] DEBUG SentenceAndCodeBlockParser Parsing code block
+22:02:23.612 [main] DEBUG SentenceAndCodeBlockParser Start sentence parsing
+22:02:23.612 [main] DEBUG SentenceElementsParser Start sentence parsing
+22:02:23.612 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.612 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.613 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.613 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.613 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.613 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.613 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.613 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.613 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.613 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.613 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.614 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.614 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.614 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.614 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.614 [main] DEBUG SentenceElementsParser Parsing punctuation marks
+22:02:23.614 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.614 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.614 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.614 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.615 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.615 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.615 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.615 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.615 [main] DEBUG SentenceElementsParser Parsing word
+22:02:23.615 [main] DEBUG SentenceElementsParser Parsing punctuation marks
+22:02:23.615 [main] DEBUG SentenceElementsParser End text parsing
+22:02:23.615 [main] DEBUG SentenceAndCodeBlockParser End sentence parsing
+22:02:23.616 [main] DEBUG SentenceAndCodeBlockParser Parsing code block
+22:02:23.616 [main] DEBUG SentenceAndCodeBlockParser End text parsing

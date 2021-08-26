@@ -1,6 +1,9 @@
 package com.epam.jwd.entities;
 
+import com.epam.jwd.view.Output;
+
 public class Word implements TextElement {
+    private static final String SPACE = " ";
     private String word;
 
     public Word(String word) {
@@ -16,7 +19,12 @@ public class Word implements TextElement {
     }
 
     @Override
+    public void print() {
+        Output.output(getWord() + SPACE);
+    }
+
+    @Override
     public String toString() {
-        return "Word{" + "word='" + word + '\'' + '}';
+        return getWord();
     }
 }

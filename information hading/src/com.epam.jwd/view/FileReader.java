@@ -7,8 +7,8 @@ import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 
-public class ReaderFile {
-    private static final Logger logger = LogManager.getLogger(ReaderFile.class);
+public class FileReader {
+    private static final Logger logger = LogManager.getLogger(FileReader.class);
 
     private static final String EMPTY_STR = "";
 
@@ -18,7 +18,6 @@ public class ReaderFile {
             return new String(Files.readAllBytes(Paths.get(fileName)));
         } catch (IOException e) {
             logger.error("ReaderFile IOExeption" + e);
-            e.printStackTrace();
         }
         return EMPTY_STR;
     }

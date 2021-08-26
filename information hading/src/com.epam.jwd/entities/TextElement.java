@@ -1,6 +1,8 @@
 package com.epam.jwd.entities;
 
-public interface TextElement {
+import java.util.List;
 
+public interface TextElement {
+    public void print();
 
 }

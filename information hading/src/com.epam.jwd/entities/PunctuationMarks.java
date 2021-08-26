@@ -1,6 +1,9 @@
 package com.epam.jwd.entities;
 
+import com.epam.jwd.view.Output;
+
 public class PunctuationMarks implements TextElement {
+    private static final String SPACE = " ";
     private String sign;
 
     public PunctuationMarks(String sign) {
@@ -16,8 +19,13 @@ public class PunctuationMarks implements TextElement {
     }
 
     @Override
+    public void print() {
+        Output.output(getSign() + SPACE);
+    }
+
+    @Override
     public String toString() {
-        return "PunctuationMarks{" + "sign='" + sign + '\'' + '}';
+        return getSign();
     }
 
 }
